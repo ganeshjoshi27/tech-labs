@@ -1,4 +1,4 @@
 # tech-labs
 This is my first Git Repository.
-<b>
+<br>
 Author - Ganesh Joshi
